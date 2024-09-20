@@ -35,7 +35,7 @@ This is a web-based platform designed to assist in the early detection and manag
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/SkinHealthAI.git
+   git clone https://github.com/your-username/Report Analysis With AI.git
    ```
 2. **Set Up Environment:**
    Install the required dependencies using a package manager like pip or npm.
